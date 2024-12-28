@@ -1,6 +1,6 @@
 ﻿namespace Ca1515Warnings;
 
-public class Calculator
+internal class Calculator
 {
     public double Value { get; private set; }
 

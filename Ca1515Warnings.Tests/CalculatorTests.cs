@@ -2,7 +2,7 @@ using FluentAssertions;
 
 namespace Ca1515Warnings.Tests;
 
-public class CalculatorTests
+internal class CalculatorTests
 {
     [Test]
     public void TestAdd()
