@@ -18,4 +18,12 @@
     <TreatWarningsAsErrors>True</TreatWarningsAsErrors>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="./.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="./.editorconfig" />
+  </ItemGroup>
+
 </Project>
